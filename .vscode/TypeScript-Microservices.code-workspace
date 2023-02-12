@@ -1,0 +1,125 @@
+{
+	"folders": [
+		{
+			"name": "✨ root",
+			"path": "/workspaces/TypeScript-Microservices"
+		},
+		{
+			"name": "Chapter02/handing-asynchronous-nature",
+			"path": "/workspaces/TypeScript-Microservices/Chapter02/handing-asynchronous-nature"
+		},
+		{
+			"name": "Chapter02/nodestreams",
+			"path": "/workspaces/TypeScript-Microservices/Chapter02/node-streams"
+		},
+		{
+			"name": "Chapter03/using_baconjs",
+			"path": "/workspaces/TypeScript-Microservices/Chapter03/using_baconjs"
+		},
+		{
+			"name": "Chapter03/using_highlandjs",
+			"path": "/workspaces/TypeScript-Microservices/Chapter03/using_highlandjs"
+		},
+		{
+			"name": "Chapter03/using_rxjs",
+			"path": "/workspaces/TypeScript-Microservices/Chapter03/using_rxjs"
+		},
+		{
+			"name": "Chapter05/🚀 api_gateway",
+			"path": "/workspaces/TypeScript-Microservices/Chapter05/api_gateway"
+		},
+		{
+			"name": "Chapter06/consul-producer",
+			"path": "/workspaces/TypeScript-Microservices/Chapter06/consul/consul-producer"
+		},
+		{
+			"name": "Chapter06/eureka-service-discovery",
+			"path": "/workspaces/TypeScript-Microservices/Chapter06/eureka/eureka-service-discovery"
+		},
+		{
+			"name": "Chapter07/consumer",
+			"path": "/workspaces/TypeScript-Microservices/Chapter07/bit-code-sharing/consumer"
+		},
+		{
+			"name": "Chapter07/clusters",
+			"path": "/workspaces/TypeScript-Microservices/Chapter07/bit-code-sharing/demo-microservice"
+		},
+		{
+			"name": "Chapter07/http2-example-typescript",
+			"path": "/workspaces/TypeScript-Microservices/Chapter07/http2"
+		},
+		{
+			"name": "Chapter07/hystrix",
+			"path": "/workspaces/TypeScript-Microservices/Chapter07/hystrix"
+		},
+		{
+			"name": "Chapter07/node-producer",
+			"path": "/workspaces/TypeScript-Microservices/Chapter07/kafka/node-producer"
+		},
+		{
+			"name": "Chapter07/first-microservice-chapter-6-registrer",
+			"path": "/workspaces/TypeScript-Microservices/Chapter07/netflix cloud/first-microservice-register-node"
+		},
+		{
+			"name": "Chapter07/thrift-rpc",
+			"path": "/workspaces/TypeScript-Microservices/Chapter07/thrift-rpc"
+		},
+		{
+			"name": "Chapter08/cpu-profiling-demo",
+			"path": "/workspaces/TypeScript-Microservices/Chapter08/cpu-profiling-demo"
+		},
+		{
+			"name": "Chapter08/top-down-swagger",
+			"path": "/workspaces/TypeScript-Microservices/Chapter08/top-down-swagger"
+		},
+		{
+			"name": "Chapter08/ts-http-proxy",
+			"path": "/workspaces/TypeScript-Microservices/Chapter08/ts-http-proxy"
+		},
+		{
+			"name": "Chapter09/meter-metric",
+			"path": "/workspaces/TypeScript-Microservices/Chapter09/meter metric"
+		},
+		{
+			"name": "Chapter09/⚙️ pmx-utilities",
+			"path": "/workspaces/TypeScript-Microservices/Chapter09/pmx-utilities"
+		},
+		{
+			"name": "Chapter09/prometheus-grafana-board",
+			"path": "/workspaces/TypeScript-Microservices/Chapter09/prometheus-grafana"
+		},
+		{
+			"name": "Chapter09/simple-metrics",
+			"path": "/workspaces/TypeScript-Microservices/Chapter09/simple-metric"
+		},
+		{
+			"name": "Chapter09/user",
+			"path": "/workspaces/TypeScript-Microservices/Chapter09/user"
+		},
+		{
+			"name": "Chapter10/auditjs-example",
+			"path": "/workspaces/TypeScript-Microservices/Chapter10/auditjs"
+		},
+		{
+			"name": "Chapter10/express-lusca",
+			"path": "/workspaces/TypeScript-Microservices/Chapter10/express-lusca"
+		},
+		{
+			"name": "Chapter10/rate-limiter",
+			"path": "/workspaces/TypeScript-Microservices/Chapter10/rate-limiter"
+		},
+		{
+			"name": "Chapter10/code-analyzer",
+			"path": "/workspaces/TypeScript-Microservices/Chapter10/tslinter"
+		},
+		{
+			"name": "Chapter10/⚙️ typescript-express-session",
+			"path": "/workspaces/TypeScript-Microservices/Chapter10/typescript-express-session"
+		},
+		{
+			"name": "products-catalog",
+			"path": "/workspaces/TypeScript-Microservices/shopping cart microservices/products-catalog -with-docker"
+		}
+	],
+	"settings": {}
+}
